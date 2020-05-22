@@ -1,7 +1,7 @@
 library(tidyverse)
 library(lubridate)
 
-weekly_path <- "GitHub Projects/Retail Weekly POS Sales.csv"
+weekly_path <- "Retail Weekly POS Sales.csv"
 
 weekly <- read_csv(weekly_path)
 
